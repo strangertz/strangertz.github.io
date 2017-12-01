@@ -4,9 +4,8 @@
 }
 #header {
   background-color:#363636;
-  height:56px;
   width:100%;
-  border-bottom:2px solid black;
+  border-bottom:1px solid black;
 }
 #header {
   margin:0 auto;
